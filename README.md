@@ -186,6 +186,9 @@ I’ve worked with SIEM platforms like FortiSIEM , Rapid7, and CrowdStrike Falco
   </a>
 </p>
 
+📥 **View My Resume:**  
+👉 [Khani Reed - Cybersecurity Resume](./Khani_Reed_Resume.pdf)
+
 <!--
 **KhaniReed/KhaniReed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
