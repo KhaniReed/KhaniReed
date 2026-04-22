@@ -42,9 +42,6 @@ I’ve worked with SIEM platforms like FortiSIEM , Rapid7, and CrowdStrike Falco
   </a>
 </p>
 
-🔗 **Verify Certification:**  
-👉 https://cp.certmetrics.com/CompTIA/en/public/verify/credential/7Q745MXQ01RESQ22
-
 ---
 
 ## 🛠️ Skills & Tools  
