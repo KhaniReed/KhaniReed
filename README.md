@@ -145,7 +145,7 @@ I’ve worked with SIEM platforms like FortiSIEM , Rapid7, and CrowdStrike Falco
 
 ---
 
-### 🧪 Active Directory Home Lab (In Progress)  
+### 🧪 [Active Directory Home Lab (In Progress)](https://github.com/KhaniReed/Active-Directory-Lab)
 📌 Building a virtual enterprise environment to simulate real-world attack and defense scenarios  
 
 🖥️ **Lab Setup:**  
